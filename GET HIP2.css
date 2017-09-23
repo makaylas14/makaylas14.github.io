@@ -1,0 +1,32 @@
+body {
+    font-family: Geneva;
+    margin: 0;
+}
+h1 {
+    color: #FFFFFF;
+}
+.headerBanner {
+    background-color: #2F60BB;
+    width: 100%;
+    padding: 20px 0px 20px 40px;
+}
+p {
+    font-size: 24px;
+}
+.paragraphBanner {
+        background-color: #29c8ea;
+        width:100%;
+        padding:20px 0px 20px 40px;
+}
+.content {
+    margin: 20px 0px 20px 40px;
+    font-size: 20px;
+    color: #2F60BB
+}
+img {
+    width: 400px;
+}
+.decorated {
+    font-weight: bold;
+    font-style: italic;
+}
